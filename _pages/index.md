@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-Hi, my name is Jetske, I finished havo in the summer of 2023. I have a gap year right now and I'd love to do the game art course at Buas in 2024. (unless I change my mind after programming a game and go to the programming course.)
+Hi, my name is Jetske, I finished havo in the summer of 2023. I have a gap year right now and I'd love to do the game art course at Buas in 2024. (unless I change my mind after programming a game and go to the programming course.) I want to learn programming because I feel like it will help me a lot in the future. I have some ideas for games that I'd like to actually make a working version of. Although I plan on taking the game art course, I think it is valuable for me to be able to program. I feel like this skill will enable me to think along with future coworkers/peers aswell as creating projects of my own.
 
 ## Strengths
 
