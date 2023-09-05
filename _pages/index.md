@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-Hi, my name is Jetske 
+Hi, my name is Jetske
 
 ## Strengths
 
