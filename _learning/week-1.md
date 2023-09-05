@@ -12,11 +12,9 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
+I'd like to finish my introduction This week.
+I also want to get to know some basics on C++, as well as knowing a bit more about what goes into programming a game from scratch. This together will at least take about 3 hours. Of course 2 hours for the course day as well as writing my introduction. I'd also like to work on an assignment if we are given one on thursday.
 
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
 
 ## Do
 
