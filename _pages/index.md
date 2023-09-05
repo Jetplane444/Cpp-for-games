@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-Hi, my name is Jetske, I finished havo in the summer of 2023, I have a gap year right now and I'd love to do the game art course at Buas in 2024. (unless I change my mind after programming a game and go to the programming course.)
+Hi, my name is Jetske, I finished havo in the summer of 2023. I have a gap year right now and I'd love to do the game art course at Buas in 2024. (unless I change my mind after programming a game and go to the programming course.)
 
 ## Strengths
 
