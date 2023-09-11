@@ -18,7 +18,7 @@ I also want to get to know some basics on C++, as well as knowing a bit more abo
 
 ## Do
 
- I was abkle to finish my introduction on my website this week, this took me about 1/1.5 hours. I had a small issue where my updates wouldnt push to the website, but I quicly resolved this issue. I also finished my game game description document for now, including mockup of the game. this took me a bit longer that I expected, about 2/3 hours. I also took some more time looking at datatypes and variables, since I was a bit confused about what data types you need to use for different numbers.
+ I was able to finish my introduction on my website this week, this took me about 1/1.5 hours. I had a small issue where my updates wouldnt push to the website, but I quicly resolved this issue. I also finished my game description document for now, including mockup of what the game would look like. this took me a bit longer that I expected, about 2/3 hours. I also took some more time looking at datatypes and variables, since I was a bit confused about what data types you need to use for different numbers.
 
 ## Check
 
