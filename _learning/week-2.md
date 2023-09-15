@@ -12,35 +12,16 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+I'd like to get feed back on my GDD, as wel as maybe starting programming more, at least in the lab, I want to learn more about the subjects of this week, such as pionters, references and arrays. We are also going to learn about Function classes.
 
 ## Do
 
-<!---
-NOTE: Fill this in during the week.
-
-What were you actually able to accomplish? Was it more or less than what you planned? Was the amount of time you thought you would spend on it accurate? If not, what took longer than you thought it would?
-
-Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
--->
+I got good feedback about my GDD, and I incorporated the feedback into my GDD. I feel like I'm understanding more and more about the use of the concepts that we have learned so far by also doing the labs.
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
 
-What went well? What didn't go so well? What was the most important thing you learned this week?
 
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
 
 ## Act
 
