@@ -22,24 +22,8 @@ I also want to get to know some basics on C++, as well as knowing a bit more abo
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
-
-What went well? What didn't go so well? What was the most important thing you learned this week?
-
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
+I finished both my introduction as well as my GDD, both went relatively smootly appart from a small hiccup with pushing my changes to my profile, but I solved this quickly. I also read and watched information about the concepts that we learned this week.
 
 ## Act
 
-<!---
-Note: Fill this in at the end of the week.
-
-What action points can you identify from this week? What would you like to improve? What would you like to continue to strengthen?
-
-If your planned time estimates were not accurate, what would you do to improve them?
--->
+Up until now I've been able to follow allong with everything we did, I am proud of finishing my GDD relatively early. However, I feel like the coming weeks we are going to be picking up pace, and I need to keep in mind that I have to plan the stuff I want to get done so I have a good overview of my projects and workload.
