@@ -20,24 +20,8 @@ I was able to make my character move, and even better than I thought, because sh
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
-
-What went well? What didn't go so well? What was the most important thing you learned this week?
-
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
+I finished the background for now, and  am happy with making my character move. I havent made the background move yet. 
 
 ## Act
 
-<!---
-Note: Fill this in at the end of the week.
-
-What action points can you identify from this week? What would you like to improve? What would you like to continue to strengthen?
-
-If your planned time estimates were not accurate, what would you do to improve them?
--->
+I want to start working with classes and I need to get to know operators better.
