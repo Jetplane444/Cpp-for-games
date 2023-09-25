@@ -12,21 +12,11 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+I want to make my own sprite move, and I want to work on my game background
 
 ## Do
 
-<!---
-NOTE: Fill this in during the week.
-
-What were you actually able to accomplish? Was it more or less than what you planned? Was the amount of time you thought you would spend on it accurate? If not, what took longer than you thought it would?
-
-Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
--->
+I was able to make my character move, and even better than I thought, because she has an idle animation when standing still and she runs when you move her. I am also happy with how the background of the game is comming along.
 
 ## Check
 
