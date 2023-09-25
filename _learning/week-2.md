@@ -20,15 +20,9 @@ I got good feedback about my GDD, and I incorporated the feedback into my GDD. I
 
 ## Check
 
-
+I am happy about the GGD feedback i got. I had some issues with moving a sprite and displaying the fps from the lab but this has been solved.
 
 
 ## Act
 
-<!---
-Note: Fill this in at the end of the week.
-
-What action points can you identify from this week? What would you like to improve? What would you like to continue to strengthen?
-
-If your planned time estimates were not accurate, what would you do to improve them?
--->
+Sometimes I feel like im underestimating myself, but I do feel like with enough effort i can make an nice game. I shouldn't be affraid of asking questions.
