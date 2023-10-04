@@ -12,21 +12,11 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+I want to work on collisions in my background and add an enemy class. Id also like to work on more player movement if there is time.
 
 ## Do
 
-<!---
-NOTE: Fill this in during the week.
-
-What were you actually able to accomplish? Was it more or less than what you planned? Was the amount of time you thought you would spend on it accurate? If not, what took longer than you thought it would?
-
-Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
--->
+So far I've added an enemy class, which is very close to the player class so I hope to tweak it to make it act like an enemy. currenly the sprite and status are fixed to the upper left corner so its barely visible, I have to look into positioning and how enemys stay in place with a moving camera 
 
 ## Check
 
