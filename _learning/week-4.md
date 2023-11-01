@@ -20,8 +20,8 @@ We made a player class which is nice because I can start implementing more movem
 
 ## Check
 
-We actually worked on the things I wanted to achieve this week in the labs which was helpfull and made me create a good player class aswell as a moving camera. I've yet to add collision tot the map and I also want to Add more moves to my player
+We actually worked on the things I wanted to achieve this week in the labs which was helpfull and made me create a good player class aswell as a moving camera. I've yet to add collision to the map and I also want to Add more moves to my player
 
 ## Act
 
-I want to satrt trying things out more on my own, I've ahd luck this week with the lab following my couse of plan but I cant rely on that every week.
+I want to start trying things out more on my own, I've had luck this week with the lab following my couse of plan but I cant rely on that every week.

@@ -12,42 +12,16 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+I want my enemy to follow the player and add more states like attacking the player when near
 
 ## Do
 
-<!---
-NOTE: Fill this in during the week.
-
-What were you actually able to accomplish? Was it more or less than what you planned? Was the amount of time you thought you would spend on it accurate? If not, what took longer than you thought it would?
-
-Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
--->
+sadly I have been sick this week so the only thing I added in my time outside of the lectures was bacground music, in the lesson we got the enemy to follow the player though, so I am proud of that 
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
-
-What went well? What didn't go so well? What was the most important thing you learned this week?
-
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
+adding the music went quite well with a little bit of help, and the enemy follows the player. It's not perfect yet, since when the player stops moving the enemy stops on top of the player, It's nice if in the future the enemy slowy starts and stops basted on the player.
 
 ## Act
 
-<!---
-Note: Fill this in at the end of the week.
-
-What action points can you identify from this week? What would you like to improve? What would you like to continue to strengthen?
-
-If your planned time estimates were not accurate, what would you do to improve them?
--->
+I notice sometimes I just really don't know how to solve something such as with the enemy movement, so I want to read up on some principles in programming again in my c++ 20 book.

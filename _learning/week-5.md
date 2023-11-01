@@ -20,24 +20,8 @@ So far I've added an enemy class, which is very close to the player class so I h
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
-
-What went well? What didn't go so well? What was the most important thing you learned this week?
-
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
+We worked on an entity class so that the enemy class isn't so similair to the player, I worked on the player movement, so now she can idle, walk, and attack with inputs.
 
 ## Act
 
-<!---
-Note: Fill this in at the end of the week.
-
-What action points can you identify from this week? What would you like to improve? What would you like to continue to strengthen?
-
-If your planned time estimates were not accurate, what would you do to improve them?
--->
+I feel like I am getting more independent in problem solving and would like to continue growing in that.

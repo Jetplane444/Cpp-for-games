@@ -12,35 +12,15 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+I want to get my enemy to move and I want to see if Iz can add dashing to my player.
 
 ## Do
 
-<!---
-NOTE: Fill this in during the week.
-
-What were you actually able to accomplish? Was it more or less than what you planned? Was the amount of time you thought you would spend on it accurate? If not, what took longer than you thought it would?
-
-Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
--->
+We got to get the enemy moving in the lesson, but it doesnt follow the player yet. I fixed dashing on my own, I did ask questions but solved my issues before I got assistance which I am proud of. I also solved an issue with the enemy animation and set its ancor so it can run towards the right direction.
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
-
-What went well? What didn't go so well? What was the most important thing you learned this week?
-
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
+I thought I would get a bit further with the enemy movement but I am proud of that it moves in general. I am proud of adding the dash on my own.
 
 ## Act
 
