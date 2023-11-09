@@ -12,15 +12,15 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-I'd like to get feed back on my GDD, as wel as maybe starting programming more, at least in the lab, I want to learn more about the subjects of this week, such as pionters, references and arrays. We are also going to learn about Function classes.
+I'd like to get feed back on my GDD, as wel as maybe starting programming more, at least in the lab, I want to learn more about the subjects of this week, such as pionters, references and arrays. We are also going to learn about Function classes. I think this will take me about 6 hours in total.
 
 ## Do
 
-I got good feedback about my GDD, and I incorporated the feedback into my GDD. I feel like I'm understanding more and more about the use of the concepts that we have learned so far by also doing the labs.
+I got good feedback about my GDD, and I incorporated the feedback into my GDD. I feel like I'm understanding more and more about the use of the concepts that we have learned so far by also doing the labs. 
 
 ## Check
 
-I am happy about the GGD feedback i got. I had some issues with moving a sprite and displaying the fps from the lab but this has been solved.
+I am happy about the GGD feedback I got. I had some issues with moving a sprite and displaying the fps from the lab but this has been solved.
 
 
 ## Act

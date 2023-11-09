@@ -12,11 +12,11 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-I want to start working with classes. I also want to add more movement to my main character, and hopefully I can implement my background into the game.
+I want to start working with classes. I also want to add more movement to my main character, and hopefully I can implement my background into the game. I assume this will take me about 6 hours in total.
 
 ## Do
 
-We made a player class which is nice because I can start implementing more movement to my character. we also added a moving camera with an image of my background
+We made a player class which is nice because I can start implementing more movement to my character. we also added a moving camera with an image of my background. In the future I want my background to be myh LDtk file, but for now this will do. I spent about 5/6 hours in total on the project this week.
 
 ## Check
 

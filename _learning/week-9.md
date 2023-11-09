@@ -12,21 +12,12 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+my goals this week are adding a state machine for the enemy, including trying to get all of the actions to work, and i want to atleast try and start with a level file for collision. I expect this will take me 4/5 hours plus 4 hours because of following the lectures.
 
 ## Do
 
-<!---
-NOTE: Fill this in during the week.
-
-What were you actually able to accomplish? Was it more or less than what you planned? Was the amount of time you thought you would spend on it accurate? If not, what took longer than you thought it would?
-
-Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
--->
+I made the state machine in about 1.5 hours, and I was able to get the enemy to attack the plauyer in the lectures, I also made a small start to the level file.
+all in all, this took me about 6 hours in total this weekg
 
 ## Check
 

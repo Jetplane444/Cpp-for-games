@@ -12,11 +12,11 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-I want to make my own sprite move, and I want to work on my game background
+I want to make my own sprite move, and I want to work on my game background in LDtk. I think this will take me about 5 hours plus 4 hours in the lectures.
 
 ## Do
 
-I was able to make my character move, and even better than I thought, because she has an idle animation when standing still and she runs when you move her. I am also happy with how the background of the game is comming along.
+I was able to make my character move, and even better than I thought, because she has an idle animation when standing still and she runs when you move her. I am also happy with how the background of the game is comming along. I worked on the project for about 8 hours this week
 
 ## Check
 

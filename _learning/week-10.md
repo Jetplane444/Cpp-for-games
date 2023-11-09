@@ -12,12 +12,7 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
-
+I want to try and get the collisions working this week, I estimate that this will take me 5/6 hours plus 4 hours for the courses
 ## Do
 
 <!---

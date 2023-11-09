@@ -12,11 +12,7 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
-<!---
-NOTE: Fill this section in at the beginning of the week!
-
-What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
--->
+my goals this week are adding a state machine the enemy, including trying to get all of the actions to work, and i want to atleast try and start with a level file for collision.
 
 ## Do
 
