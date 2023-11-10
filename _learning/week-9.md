@@ -16,29 +16,13 @@ my goals this week are adding a state machine for the enemy, including trying to
 
 ## Do
 
-I made the state machine in about 1.5 hours, and I was able to get the enemy to attack the plauyer in the lectures, I also made a small start to the level file.
+I made the state machine in about 1.5 hours, and I was able to get the enemy to attack the player in the lectures, I also made a small start to the level file.
 all in all, this took me about 6 hours in total this weekg
 
 ## Check
 
-<!--- 
-Note: Fill this in at the end of the week.
-
-What went well? What didn't go so well? What was the most important thing you learned this week?
-
-Did you receive any feedback from the lecturer or your peers? If so, what was that feedback? Were you able to incorporate that feedback?
-
-Did you give anyone else feedback? Who did you give feedback to? How did they respond to your feedback?
-
-NOTE: Any source of feedback is feedback!
--->
+ Making the state machine went very well, I did this on my own and it works well, I got the enemy to move with some assistance. 
 
 ## Act
 
-<!---
-Note: Fill this in at the end of the week.
-
-What action points can you identify from this week? What would you like to improve? What would you like to continue to strengthen?
-
-If your planned time estimates were not accurate, what would you do to improve them?
--->
+For now my last focus will be trying to get the LDtk map into the game/ the collisions of the LDtk file next week.
